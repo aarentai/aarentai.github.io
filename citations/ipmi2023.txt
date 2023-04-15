@@ -1,0 +1,8 @@
+@misc{dai2023modeling,
+      title={Modeling the Shape of the Brain Connectome via Deep Neural Networks}, 
+      author={Haocheng Dai and Martin Bauer and P. Thomas Fletcher and Sarang Joshi},
+      year={2023},
+      eprint={2203.06122},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.NC}
+}

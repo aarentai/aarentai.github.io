@@ -1,0 +1,8 @@
+@inproceedings{campbell2021structural,
+  title={Structural connectome atlas construction in the space of riemannian metrics},
+  author={Campbell, Kristen M and Dai, Haocheng and Su, Zhe and Bauer, Martin and Fletcher, P Thomas and Joshi, Sarang C},
+  booktitle={Information Processing in Medical Imaging: 27th International Conference, IPMI 2021, Virtual Event, June 28--June 30, 2021, Proceedings},
+  pages={291--303},
+  year={2021},
+  organization={Springer}
+}
