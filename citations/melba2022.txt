@@ -1,7 +1,12 @@
 @article{campbell2022integrated,
-  title={Integrated Construction of Multimodal Atlases with Structural Connectomes in the Space of Riemannian Metrics},
-  author={Campbell, Kristen M and Dai, Haocheng and Su, Zhe and Bauer, Martin and Fletcher, P Thomas and Joshi, Sarang C},
-  journal={The journal of machine learning for biomedical imaging},
-  volume={1},
-  year={2022}
+    title = "Integrated Construction of Multimodal Atlases with Structural Connectomes in the Space of Riemannian Metrics",
+    author = "Campbell, Kristen M. and Dai, Haocheng and Su, Zhe and Bauer, Martin and Fletcher, P. Thomas and Joshi, Sarang C.",
+    journal = "Machine Learning for Biomedical Imaging",
+    volume = "1",
+    issue = "IPMI 2021 special issue",
+    year = "2022",
+    pages = "1--25",
+    issn = "2766-905X",
+    doi = "10.59275/j.melba.2022-a871",
+    url = "https://melba-journal.org/2022:016"
 }
