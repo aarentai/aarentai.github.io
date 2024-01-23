@@ -1,8 +1,8 @@
-@misc{dai2023neural,
-      title={Neural Operator Learning for Ultrasound Tomography Inversion}, 
-      author={Haocheng Dai and Michael Penwarden and Robert M. Kirby and Sarang Joshi},
-      year={2023},
-      eprint={2304.03297},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@inproceedings{
+dai2023neural,
+title={Neural Operator Learning for Ultrasound Tomography Inversion},
+author={Haocheng Dai and Michael Penwarden and Robert Kirby and Sarang Joshi},
+booktitle={Medical Imaging with Deep Learning, short paper track},
+year={2023},
+url={https://openreview.net/forum?id=tSokLyjvW5}
 }
