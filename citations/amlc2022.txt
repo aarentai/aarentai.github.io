@@ -1,0 +1,8 @@
+@inproceedings{
+dai2022amlc,
+title={Understanding Visual Documents from Customer Self-Service Workflow using Multimodal Transformer},
+author={Haocheng Dai and Jia-Kai Chou and Siwei Chen and Bei Xiao and Yangho Chen},
+booktitle={Amazon Machine Learning Conference},
+year={2022},
+url={https://drive.google.com/file/d/1EQsFFwbGwwq9cH_u4mN77yxQB0xgDdo6/view?usp=sharing}
+}

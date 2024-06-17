@@ -1,0 +1,8 @@
+@inproceedings{
+dai2023amlc,
+title={Detect AI-generated Images Uploaded for Risk Evidence Collection in CSSW},
+author={Haocheng Dai and Siwei Chen and Bei Xiao and Yangho Chen},
+booktitle={Amazon Machine Learning Conference},
+year={2023},
+url={https://drive.google.com/file/d/16-bv_mvt8WwnHbXCkW_kExM0g817Ki03/view?usp=sharing}
+}
