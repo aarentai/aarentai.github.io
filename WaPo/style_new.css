@@ -1,0 +1,131 @@
+@font-face {
+	font-family: 'Newsreader', serif;
+}
+
+.front-page {
+	margin-right: 25px;
+	font-family: 'Newsreader', serif;
+	font-size: 16px;
+}
+
+.inblog {
+	font-family: 'Newsreader', serif;
+	font-weight: 400;
+	margin-right: 25px;
+}
+
+.inblog h3 {
+	margin-bottom: 5px;
+	font-size: 18px;
+	font-family: 'Newsreader', serif;
+	font-weight: 310;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #6BA4B8;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #6BA4B8;
+	text-decoration: underline;
+}
+
+.top {
+	padding-top: 40px;
+}
+
+h1 {
+	font-family: 'Newsreader', serif;
+	font-weight: 500;
+	font-size: 50px;
+	margin-bottom: 15px;
+	margin-top: 10px;
+}
+
+h2 {
+	font-family: 'Newsreader', serif;
+	font-weight: 400;
+	font-size: 18px;
+	margin-bottom: 4px;
+	margin-top: 0px;
+}
+
+h3 {
+	font-family: 'Newsreader', serif;
+	font-weight: 300;
+	font-size: 18px;
+	margin-top: 20px;
+}
+
+h4 {
+	font-family: 'Newsreader', serif;
+	font-weight: 500;
+	font-size: 28px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+h5 {
+	font-family: 'Newsreader', serif;
+	font-weight: 400;
+	font-size: 17px;
+	margin-bottom: 4px;
+	margin-top: 15px;
+}
+
+p {
+	font-family: 'Newsreader', serif;
+	font-weight: 300;
+	font-size: 17px;
+	margin-bottom: 10px;
+}
+
+.blog p {
+	font-family: 'Newsreader', serif;
+	font-weight: 400;
+	font-size: 30px;
+	margin-bottom: 20px;
+	text-align: justify;
+	margin-top: 5px;
+}
+
+.blog h5 {
+	font-family: 'Newsreader', serif;
+	font-weight: 400;
+	font-size: 31px;
+	margin-bottom: 8px;
+	margin-top: 15px;
+}
+
+.talk li {
+	font-family: 'Newsreader', serif;
+	font-weight: 300;
+	font-size: 16px;
+}
+
+.col {
+	font-family: 'Newsreader', serif;
+	font-size: .95em;
+}
+
+#cv li {
+	font-family: 'Newsreader', serif;
+}
+
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.post p {
+	font-family: 'Newsreader', serif;
+}
+
+.meta p {
+	font-family: 'Newsreader', serif;
+}
