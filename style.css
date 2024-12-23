@@ -9,10 +9,34 @@
 
 
 *{margin:0;padding:0;}
-a { color: #ea56c4; text-decoration: none; }/*#6BA4B8#002fa7*/
-a:hover { color: #ea56c4; text-decoration:underline; }
+a { color: #445588; text-decoration: none; }/*4b2d83,ea56c4,752fb6*/
+a:hover {
+	background-color: #eeeeee;
+	color: #445588;
+	text-decoration: none;
+}
+
+.highlighted {
+	background-color: #eeeeee;
+}
 
 .top {padding-top: 40px;}
+
+.justified-text {
+	text-align: justify;
+	/* Aligns the text to both sides */
+	hyphens: auto;
+	/* Enables automatic hyphenation */
+	word-break: break-word;
+	/* Ensures proper word-breaking */
+	/* line-height: 1.6; */
+	/* Improves line spacing for readability */
+}
+
+::selection {
+	background-color: #445588;
+	color: #ffffff;
+}
 
 h1 {
 	font-family: 'Fira Sans', sans-serif;
@@ -47,9 +71,9 @@ h4 {
 
 h5 {
 	font-family: 'Fira Sans', sans-serif;
-	font-weight: 420;
+	font-weight: 390;
 	font-size: 18px;
-	margin-bottom: 4px;
+	margin-bottom: 5px;
 	margin-top: 15px;
 }
 
