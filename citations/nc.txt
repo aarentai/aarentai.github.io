@@ -1,0 +1,9 @@
+@misc{you2025silentmajoritydemystifyingmemorization,
+      title={The Silent Majority: Demystifying Memorization Effect in the Presence of Spurious Correlations}, 
+      author={Chenyu You and Haocheng Dai and Yifei Min and Jasjeet S. Sekhon and Sarang Joshi and James S. Duncan},
+      year={2025},
+      eprint={2501.00961},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.00961}, 
+}
